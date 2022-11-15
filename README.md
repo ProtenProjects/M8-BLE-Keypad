@@ -1,5 +1,8 @@
 # M8-BLE-Keypad
-8 Button macro pad with nRF52840 Chip Coded in CircuitPython
+8 Button macro pad with nRF52840 Chip Coded in CircuitPython!
+
+<img width="300" alt="M8_BLE_Pad" src="https://user-images.githubusercontent.com/53790933/201997399-bcfec85b-49a0-4cc0-84c0-b0c35a341d81.jpg">
+
 
 [Reddit Post about Prototype](https://www.reddit.com/r/synthesizers/comments/yvisvd/m8_headless_teensy_case_and_bluetooth_control_pad/?utm_source=share&utm_medium=web2x&context=3)
 
